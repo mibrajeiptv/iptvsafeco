@@ -1,4 +1,3 @@
 #EXTM3U
 
-#EXTINF:-1, tvg-id="" tvg-logo="" group-title="VARIEDADES", TV CARIOCA
-https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8  
+#EXTINF:-1 https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8  
