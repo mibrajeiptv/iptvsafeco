@@ -21,8 +21,14 @@ http://5953e7f9ae845.streamlock.net/2502/2502/chunklist_w735968672.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/6/60/Logotipo_da_TV_Aratu.png" group-title="Variedades" , TV Aratu 
 https://cdn.jmvstream.com/w/LVW-8379/LVW8379_rIq6ZYiIiA/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEiNP61A7Vtlg7h2a9G9WVWdO-nCWIHcF663v_Suw-L0Ms9-_VqQLaInTBe9N-0_2PmLRpV9tQWkQJrnFkUGipr-IwQkaKduVCWzG30lkSsybHmSCXWAaj7SoXub5cV2V1npXJvNbrQXxwtVCFj51_H7W7xLrJxDkJx-leUWN43nEFawIX2PU5OTRdhB=s200" group-title="Variedades" , BR SUPERTV
+https://alanza.iptv2022.com/RSCTV_Brasil/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo1.png" group-title="Variedades" , SBT Interior 
 https://cdn.jmvstream.com:443/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://viajartv.tv/wp-content/uploads/2018/05/logo-viajar-new.png" group-title="Variedades" , Viajar TV
+https://10vod-adaptive.akamaized.net/exp=1647354061~acl=%2Fa19e68aa-866a-46a5-a646-0e5d67891f61%2F%2A~hmac=315b0d4aa9dd8a437ad25ecf1387a9399adddacbda2b7089cacfee6c19c2e646/a19e68aa-866a-46a5-a646-0e5d67891f61/sep/video/d4c582f1/playlist.m3u8?query_string_ranges=1
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/80/TV_Cidade_Verde.png/revision/latest/scale-to-width-down/340?cb=20191118085625" group-title="Variedades" , Cidade Verde(SBT) 
 https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/playlist.m3u8
@@ -143,6 +149,10 @@ https://59f2354c05961.streamlock.net:1443/tvdigitalbirigui/_definst_/tvdigitalbi
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ3JvqGt0E87sv29Pa5HL-b9X0ZeRn-jR7QrzJgLV0yhcwWSZ-7" group-title="Educativas" , TV Cultura 
 https://stream-01.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl7luSckfkuLuBRGdTtDEaEQ)/dm/3/x7wur7g/s/live-1.m3u8#cell=lnyc
+
+
+#EXTINF:-1 tvg-logo="https://images.app.goo.gl/wNqf3pvcCJBCqKTx8" group-title="Educativas" , REDE MINAS
+https://v4-slbps-sambavideos.akamaized.net:443/live/3282%2C8114%2Cec4b5a296d97fa99bf990662f5b4f8e1%3Bbase64np%3BMc8VDxqNjXKCAf8%21/amlst%3AMc_tFgfGiHOdQXPB/chunklist_b647168.m3u8?sts=st=1647311739~exp=1647318339~acl=/*~hmac=c71ff1146701244dff77ac35b785e1505dcc4dfdb968419dba01c9edd5655fea
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-017crGcjTtI/XNj4nugK9OI/AAAAAAAAA24/w0Q1Ub6pUtcETyA0LEfa9mbzbrZHj2btQCLcBGAs/s320/Screenshot_2019-05-13-01-47-07.png" group-title="Variedades" , CBTVNow 
 https://oj7lng29dg82-hls-live.5centscdn.com:443/lives/f7b44cfafd5c52223d5498196c8a2e7b.sdp/chunks.m3u8
@@ -497,7 +507,7 @@ https://srv1.zcast.com.br/tv0002/tv0002/playlist.m3u8
  ######## Públicas ######## 
  
 #EXTINF:-1 tvg-logo="http://www.paranaeducativa.pr.gov.br/modules/destaques/uploads/1558978709Destaque.jpg" group-title="Educativas" , TV E-Paraná 
-http://aovivo.paranaeducativa.pr.gov.br/hls/tve.m3u8
+https://aovivo.paranaeducativa.pr.gov.br/hls/tve.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ1h_yZseI8EyZpHlzJqUTnC-sZ1-OF88UxE4vL4qFaPORVtlDk" group-title="Educativas" , TV Educativa MS 
 https://5ee90cb3a07bb.streamlock.net/live-fertel/live-fertel/playlist.m3u8
