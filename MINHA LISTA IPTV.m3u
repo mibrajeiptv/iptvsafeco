@@ -291,14 +291,14 @@ https://cdn.jmvstream.com:443/w/LVW-10431/ngrp:LVW10431_AREnhc6KcP_all/chunklist
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-vWIupjRUu80/XON4_e9cHrI/AAAAAAAAA5Y/6Xl6ggQI7fcdLZao1GAkwYgKXWeovgw5ACLcBGAs/w1200-h630-p-k-no-nu/Screenshot_2019-05-21-00-28-46.png" group-title="Variedades" , Alpha Channel TV 
 https://5b01a3d32b65c.streamlock.net:1936/tvalpha/tvalpha/chunklist_w913150769.m3u8
 
-#EXTINF:-1 tvg-logo="http://barrados.net/img/display/800-600-2-2017_01/148406467430327800.jpg" group-title="Variedades" , TV da Gente *OFF
+#EXTINF:-1 tvg-logo="https://dc593.4shared.com/img/V9snO9qIea/s23/17f8de85158/FORA_DO_AR" group-title="Variedades" , TV da Gente *OFF
 https://595b85410a151.streamlock.net:443/tvdagenteoficial/tvdagenteoficial/playlist.m3u8
 *****OFF*****
 
 #EXTINF:-1 tvg-logo="https://spaceks.net/sites/tvmarajoara.com.br/images/logo/logo_151271228.png" group-title="Variedades" , TV Marajoara 
 https://video01.kshost.com.br/tv31966/tv31966/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://barrados.net/img/display/800-600-2-2017_01/148406467430327800.jpg" group-title="Religiosas" , TV Gerais (Montes Claros)*OFF 
+#EXTINF:-1 tvg-logo="https://dc593.4shared.com/img/V9snO9qIea/s23/17f8de85158/FORA_DO_AR" group-title="Religiosas" , TV Gerais (Montes Claros)*OFF 
 https://cdn-hfpublicidade1.ciclano.io:1443/hfpublicidade1/hfpublicidade1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://tvcinec.com.br/favicon.ico?5e1f224f7cd13" group-title="Variedades" , TV Cinec 
@@ -307,7 +307,7 @@ https://59f1cbe63db89.streamlock.net:1443/tvcinec/_definst_/tvcinec/playlist.m3u
 #EXTINF:-1 tvg-logo="https://hub.framesites.com//uploads/clients/59a7f5d831c81/design-favicon/sm-bd058bd61c5bfdd88cd2a42e7bc6f979.png" group-title="Variedades" , TV Frame Sites 
 https://cdn.jmvstream.com/w/AVJ-9109/playlist/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://barrados.net/img/display/800-600-2-2017_01/148406467430327800.jpg" group-title="Variedades" , Vem Vê TV *OFF
+#EXTINF:-1 tvg-logo="https://dc593.4shared.com/img/V9snO9qIea/s23/17f8de85158/FORA_DO_AR" group-title="Variedades" , Vem Vê TV *OFF
 https://srv-rs1.sisdera.com/vvtv/vvtv/playlist_dvr.m3u8
 
 #EXTINF:-1 tvg-logo="http://tvclicbrasil.com/wp-content/uploads/2016/08/logo.jpg" group-title="Variedades" , Clic TV Brasil 
@@ -361,13 +361,6 @@ https://livefocamundo.com:8081/8162/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvguarapari.com/wp-content/uploads/2019/08/Logo-capa-homepage-354X114.png" group-title="Educativas" , TV Guarapari(Rede Minas) 
 https://video.wellhost.com.br:443/tvguarapari/tvguarapari/chunklist_w847350167.m3u8
 
-
-
-
-
-
-
-
 #EXTINF:-1 tvg-logo="https://ntv.tv.br/img/favicon.png" group-title="Educativas" , NTV(Rede Minas) 
 https://hls.brasilstream.com.br/live/ntv/ntv/mono.m3u8?token=5346259168869990000
 
@@ -389,12 +382,6 @@ http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvufg.org.br/wp-content/uploads/2018/10/cropped-favicon-192x192.png" group-title="Públicas" , TV UFG(TV Brasil) 
 http://wowza.softhost.com.br:1935/ufg/smil:tvufgweb/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://m.dw.com/i/favicon.png" group-title="Gorvenamentais" , DW TV Espanhol
-https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://m.dw.com/i/favicon.png" group-title="Gorvenamentais" , DW TV Inglês
-https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://catve.com/portal/img/icones/apple-icon-120x120.png" group-title="Regionais" , CATVE 1 
 https://5b33b873179a2.streamlock.net:1443/live/livestream/playlist.m3u8
 
@@ -407,23 +394,18 @@ https://5b33b873179a2.streamlock.net:1443/mastertv/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://portal.pucminas.br/puctv/imagens/parceiros/Futura_1.png" group-title="Educativas" , TV Futura CE(TV O Povo) 
 https://stmv1.transmissaodigital.com/ronald6259/ronald6259/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/11/tvplateia.png" group-title="Educativas" , TV A Plateia 
+#EXTINF:-1 tvg-logo="https://dc593.4shared.com/img/V9snO9qIea/s23/17f8de85158/FORA_DO_AR" group-title="Educativas" , TV A Plateia *OFF
 https://srv-rs1.sisdera.com/hls/1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-3xA-GBjidCY/WYUVkFRtXJI/AAAAAAAAD9A/Q7X7RZCzWwobV2QcFKCsG2Ft6HkrGyRSwCK4BGAYYCw/s1600/logo%2Bcanal%2B25%2Bvetor.png" group-title="Variedades" , Canal 25
 https://stream01.msolutionbrasil.com.br/hls/canal25/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://s27.postimg.org/707q1016r/tvu.png" group-title="Variedades" , TV Urbana RS *OFF* 
-https://srv1.zcast.com.br/tvurbana/tvurbana/playlist.m3u8
-*****OFF*****
-
-#EXTINF:-1 tvg-logo="http://tstv.com.br/tv/wp-content/uploads/2016/07/Logo-TSTV-2.png" group-title="Regionais" , TSTV Taboão SP OFF 
+#EXTINF:-1 tvg-logo="http://tstv.com.br/tv/wp-content/uploads/2016/07/Logo-TSTV-2.png" group-title="Regionais" , TSTV Taboão SP
 http://stmv2.video.foxsolucoes.net/luis6478/luis6478/playlist.m3u8
 ******OFF******
 
-#EXTINF:-1 tvg-logo="http://www.tvsul.tv.br/wp-content/uploads/2019/05/bannerf.jpg" group-title="Variedades" , TV Sul *OFF* 
+#EXTINF:-1 tvg-logo="http://www.tvsul.tv.br/wp-content/uploads/2019/05/bannerf.jpg" group-title="Variedades" , TV Sul 
 https://rtmp.cdn.upx.net.br/00046/myStream.sdp/playlist.m3u8
-******OFF******
 
 #EXTINF:-1 tvg-logo="http://tvmaceio.tv.br/wp-content/uploads/2015/07/tv-logo-2-novo.png" group-title="Variedades" , TV Maceió 
 https://srv3.zcast.com.br/tvmaceio/tvmaceio/chunklist_w168765844.m3u8
@@ -437,31 +419,25 @@ https://virtues.es:1936/tvmar/tvmar/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.camara.leg.br/tema/apple-touch-icon.png" group-title="Públicas" , TV Câmara 
 https://stream3.camara.gov.br/tv1/manifest.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/tvcultura.png" group-title="Educativas" , Cultura(TV Caiuá)*OFF* 
+#EXTINF:-1 tvg-logo="https://dc593.4shared.com/img/V9snO9qIea/s23/17f8de85158/FORA_DO_AR" group-title="Educativas" , Cultura(TV Caiuá)*OFF 
 rtmp://midia.radiosaqui.com.br/tvcaiua/aovivo
 ******OFF****** 
-
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/696725018718400514/1sgtDGhC.png" group-title="Regionais" , TV Cidade(Farropilha RS) 
 http://209.126.127.101:1935/tvcidade/tvcidade/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/8c74147a638f668fff898eed14f1dc39.png" group-title="Bahia" , TV A Cara da Bahia 
-http://hd4.com.br:1935/tvacaradabahia/tvacaradabahia/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.tvsaoleo.com.br/site/images/logo_topo3.png" group-title="Regionais" , TV São Leopoldo RS *OFF* 
+#EXTINF:-1 tvg-logo="https://dc593.4shared.com/img/V9snO9qIea/s23/17f8de85158/FORA_DO_AR" group-title="Regionais" , TV São Leopoldo RS *OFF 
 https://v7.ciclano.io:1443/valetv/_definst_/valetv/playlist.m3u8
 ******OFF****** 
 
-#EXTINF:-1 tvg-logo="https://www.tvfloripa.org.br/wp-content/uploads/2019/06/LOGO-SITE-floripa.png" group-title="Regionais" , *OFF* TV Floripa SC 
+#EXTINF:-1 tvg-logo="https://dc593.4shared.com/img/V9snO9qIea/s23/17f8de85158/FORA_DO_AR" group-title="Regionais" , *OFF* TV Floripa SC 
 http://hls.fm1.com.br:8080/hls/tvfloripa.m3u8
 ******OFF******
 
-#EXTINF:-1 tvg-logo="https://pa.srvsite.com/arquivos/5193/cabecalho-5193-20191108152920.png" group-title="Regionais" , *OFF*TVC Baurú 
+#EXTINF:-1 tvg-logo="https://pa.srvsite.com/arquivos/5193/cabecalho-5193-20191108152920.png" group-title="Regionais" , TVC Baurú 
 https://59f2354c05961.streamlock.net:1443/tvbauru/_definst_/tvbauru/playlist.m3u8
-******OFF******
 
-#EXTINF:-1 tvg-logo="http://tvcbh.com/images/logotop.png" group-title="Regionais" , *OFF*TVC BH 
+#EXTINF:-1 tvg-logo="http://tvcbh.com/images/logotop.png" group-title="Regionais" , *INSTAVEL*TVC BH 
 https://srv1.zcast.com.br/tv0002/tv0002/playlist.m3u8
-******OFF******
 
  ######## Públicas ######## 
  
@@ -531,19 +507,28 @@ https://5c483b9d1019c.streamlock.net/8022/8022/playlist.m3u8
 
 ######## REGIONAIS ######## 
 
-#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-_bFnQ-NEsUU/WCsAYkQX-AI/AAAAAAAANNM/xco8wc6VDEgrUPSjzsIBM_v-ZUkhiDBQwCLcB/s320/Logo%2BFunda%25C3%25A7%25C3%25A3o%2BAperip%25C3%25AA.jpg" group-title="Regionais" , *OFF*TV Aperipê(TV Cultura) 
+#EXTINF:-1 tvg-logo="https://dc593.4shared.com/img/V9snO9qIea/s23/17f8de85158/FORA_DO_AR" group-title="Regionais" , *OFF*TV Aperipê(TV Cultura) 
 http://midia.aperipetv.infonet.com.br:1949/live/aperipetv/playlist.m3u8
 ******OFF****** 
 
-#EXTINF:-1 tvg-logo="http://tvnova.tv.br/images/logo.png" group-title="Regionais" , *OFF*TV Nova Nordeste PE(TV Cultura)
+#EXTINF:-1 tvg-logo="http://tvnova.tv.br/images/logo.png" group-title="Regionais" , TV Nova Nordeste PE(TV Cultura)
 https://live.comets.com.br/tvnovanordeste/aovivo/playlist.m3u8
-******OFF****** 
 
 #EXTINF:-1 tvg-logo="http://tvcidadesp.com.br/logotvcidade.jpeg" group-title="Regionais" , TVC Petrópolis 
 https://stmv1.srvstm.com/tvc162/tvc162/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://abtu.org.br/site/wp-content/uploads/2013/05/TV-SANTA-CEC%C3%8DLIA.jpg" group-title="Regionais" , Santa Cecília HD TV 
 http://5953e7f9ae845.streamlock.net/2063/2063/playlist.m3u8
+
+
+
+
+
+
+
+
+
+
 
 #EXTINF:-1 tvg-logo="http://www.grandocomunicacao.com.br/wp-content/uploads/2013/11/panorama.png" group-title="Regionais" , TV Litoral Panorama 
 https://streaming03.zas.media/panorama/panorama/playlist.m3u8
@@ -652,6 +637,9 @@ https://58a4464faef53.streamlock.net/interteve/ngrp:interteve_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://tendatv.com.br/imagens/logo.png" group-title="RELIGIOSAS" , tenda TV 
 https://stmv1.srvstm.com/9696/9696/playlist.m3u8
 
- 
 #EXTINF:-1 tvg-logo="https://www.nasa.gov/sites/all/themes/custom/nasatwo/images/nasa-logo.svg" group-title="GOVERNO" , NASA
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
+
+
+LINK DE "FORA DO AR"
+https://dc593.4shared.com/img/V9snO9qIea/s23/17f8de85158/FORA_DO_AR
