@@ -693,6 +693,44 @@ https://596639ebdd89b.streamlock.net:443/8124/8124/chunklist_w2108007708.m3u8
 #EXTINF:-1 tvg-logo="https://www.canaldocriador.com.br/wp-content/uploads/2020/09/canal-do-criador.jpg" group-title="AGRONEGÓCIO" , CANAL DO CRIADOR
 https://607d2a1a47b1f.streamlock.net:443/crur/smil:canaldocriador.smil/chunklist_w1350262883_b2596000_sleng.m3u8
 
+#EXTINF:-1 tvg-logo="https://dc687.4shared.com/img/XkHK8erxea/s24/17f9a3409c0/ZIMBO?async&rand=0.517936724005858" group-title="VARIEDADES" , ZIMBO TV
+https://playback2.akamaized.net/streams/29819666_9254936_lsi0qihzvmxqnyvk7vp_1/exp=1647551610~acl=%2f*~data=hdntl~hmac=bf4d4405408d15823547fe88fcbbfc089d8704bdb7f5a09385f91061c553c481/media/29819666_9254936_lsi0qihzvmxqnyvk7vp_1@2128000pb.m3u8?dw=80&ts=1647464400
+
+#EXTINF:-1 tvg-logo="https://tpa.ao/fotos/frontends/tpa-logo_18207631225f873e3cee737.png" group-title="VARIEDADES" , TPA TV
+https://playback2.akamaized.net/streams/30360708_9496693_lsi27yu0cmhgsyl8318_1/exp=1647551747~acl=%2f*~data=hdntl~hmac=6a9116cba09f4fa54f0f6482e5d7805a61bfd295c44dd8f50fb1572fad81dea8/media/30360708_9496693_lsi27yu0cmhgsyl8318_1@1628000p.m3u8?dw=80&ts=1647464400
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/636330321093521408/_0I4awbm_400x400.jpg" group-title="VARIEDADES" , TV CABO VERDE
+https://live.vimeocdn.com:443/1647469246-0x6b8a9e7b43771e65e31989a083e3b99bcac84700/6b94e57f-9bb4-4ade-9cfd-1b2a5691790a/chunklist_b3256000.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/rtpmadeira.png?f=png&h=176" group-title="VARIEDADES" , RTP MADEIRA PT
+https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Logo_RTP_Internacional.png" group-title="VARIEDADES" , RTP INTERNATIONAL
+https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/RTP2_positivo_horiz_RGB.png" group-title="VARIEDADES" , RTP 2
+https://streaming-live.rtp.pt/liverepeater/smil:rtp2HD.smil/playlist.m3u8?token=1647579600_d3a15c6d83700bf48d1bb7213044f61c89cb387a
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/RTP_A%C3%A7ores_2016_%28Reduced_Version%29.svg/1280px-RTP_A%C3%A7ores_2016_%28Reduced_Version%29.svg.png" group-title="VARIEDADES" , RTP AÇORES
+https://streaming-live.rtp.pt/liverepeater/smil:rtpacoresHD.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8d/RTP_%C3%81frica_-_Grafismo_2016.png" group-title="VARIEDADES" , RTP ÁFRICA
+https://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/CNN_Portugal.svg/2048px-CNN_Portugal.svg.png" group-title="NOTÍCIAS" , CNN PORTUGAL
+https://video-auth8.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xNi8yMDIyIDk6NDM6MTIgUE0maGFzaF92YWx1ZT0rdWhvblR6ZjBvR0twNUpSZktGbUt3PT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9ZWY0ZjQxZTQtZDQxOC00Zjc1LWE1ODItMTBkYmU2ODgwMmI5
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSFkP3pD2aZQva8uUxb_XKs6Tm0wGyBxr9NGeMlS5YaqxPKXs32lyA8_3G5O5HoIj1RiM&usqp=CAU" group-title="VARIEDADES" , KURIAKOS TV
+http://csvl04.manasat.com:1935/ktv/ktv1/chunklist_w1216083249.m3u8
+
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-LTqIzRhhBYE/XQAGxT5AB3I/AAAAAAAABB0/Uih_3IGEJtIyTisWutKyU_qbn75_rW0rACPcBGAYYCw/s320/Screenshot_2019-06-11-16-51-42.png" group-title="VARIEDADES" , KURIAKOS KIDS TV
+http://c2.manasat.com:1935/kkids/kkids2/chunklist_w2044842404.m3u8639ebdd89b.streamlock.net/8032/8032/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8d/RTP_%C3%81frica_-_Grafismo_2016.png" group-title="VARIEDADES" , RTP ÁFRICA
+
+
+
+
 
 
 LINK DE "FORA DO AR"
