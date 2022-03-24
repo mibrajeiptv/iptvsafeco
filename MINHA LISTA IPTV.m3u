@@ -1,4 +1,16 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo=" " group-title="VARIEDADES" , 
+
+
+
+#EXTINF:-1 tvg-logo="https://images.app.goo.gl/WBz7yFx8VfjHJ1fk6" group-title="MÚSICAS" , Music Top 
+http://live-edge01.telecentro.net.ar:80/live/smil:musictop.smil/chunklist_w2121980549_b2028000_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.madeinbo.tv/wp-content/uploads/2020/10/logo-red114.png" group-title="MÚSICAS" , MADE IN BO
+https://srvx1.selftv.video:443/dmchannel/live/chunklist_w1473576287.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/da597282505ddf479fd8fa44873c3872.webp" group-title="MÚSICAS" , HITS FM TV
+https://stmv1.srvsh.com.br:443/gilberto5815/gilberto5815/chunklist_w792751536.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d6/Deejay-tv-logo.jpg/revision/latest?cb=20171013201157" group-title="MÚSICAS", DEEJAY TV
 https://deejay-tv-lh.akamaized.net/i/DeejayTv_1@129866/index_600_av-b.m3u8?sd=10&rebase=on
@@ -90,6 +102,7 @@ https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/playlist.m3u
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/56/Tvjornalpe2015.png/revision/latest/scale-to-width-down/452?cb=20200629185600" group-title="VARIEDADES" , TV JORNAL PE(SBT)
 https://evpp.mm.uol.com.br/ne10/ne10_240.sdp/playlist.m3u8
 
+
 #EXTINF:-1 tvg-logo="https://viajartv.tv/wp-content/uploads/2018/05/logo-viajar-new.png" group-title="Variedades" , Viajar TV
 https://10vod-adaptive.akamaized.net/exp=1647354061~acl=%2Fa19e68aa-866a-46a5-a646-0e5d67891f61%2F%2A~hmac=315b0d4aa9dd8a437ad25ecf1387a9399adddacbda2b7089cacfee6c19c2e646/a19e68aa-866a-46a5-a646-0e5d67891f61/sep/video/d4c582f1/playlist.m3u8?query_string_ranges=1
 
@@ -137,6 +150,9 @@ https://stream-04.sv4.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZQlxsCt1l1dtqUAH2Z
 
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/12/RBTV-logo-rede-brasil.png" group-title="Variedades" , Rede Brasil 
 https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/chunklist_w473114783.m3u8
+
+#EXTINF:-1 tvg-logo="https://lirp.cdn-website.com/ec690164/dms3rep/multi/opt/logo_conectv_com_nome-1920w.png " group-title="VARIEDADES" , CONECTV
+https://stream01.msolutionbrasil.com.br/hls/conectv/live.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.tvalternativa.tv.br/admin/assets/img/logo.png" group-title="Variedades" , TV Alternativa MA(TV Gazeta)
 https://stmv5.samcast.com.br:443/wagner7919/wagner7919/chunklist_w357735461.m3u8
@@ -783,7 +799,7 @@ http://csvl04.manasat.com:1935/ktv/ktv1/chunklist_w1216083249.m3u8
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-LTqIzRhhBYE/XQAGxT5AB3I/AAAAAAAABB0/Uih_3IGEJtIyTisWutKyU_qbn75_rW0rACPcBGAYYCw/s320/Screenshot_2019-06-11-16-51-42.png" group-title="VARIEDADES" , KURIAKOS KIDS TV
 http://c2.manasat.com:1935/kkids/kkids2/chunklist_w2044842404.m3u8639ebdd89b.streamlock.net/8032/8032/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8d/RTP_%C3%81frica_-_Grafismo_2016.png" group-title="VARIEDADES" , RTP ÁFRICA
+#EXTINF:-1 tvg-logo="" group-title="VARIEDADES" , 
 
 
 
