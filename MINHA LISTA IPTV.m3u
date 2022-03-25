@@ -2,6 +2,8 @@
 #EXTINF:-1 tvg-logo=" " group-title="VARIEDADES" , 
 
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/8/82/Kiss_TV_%282014-.n.v.%29.png/revision/latest?cb=20210509164603" group-title="MÚSICAS" , KISS TV
+https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.app.goo.gl/WBz7yFx8VfjHJ1fk6" group-title="MÚSICAS" , Music Top 
 http://live-edge01.telecentro.net.ar:80/live/smil:musictop.smil/chunklist_w2121980549_b2028000_sleng.m3u8
@@ -19,7 +21,7 @@ https://deejay-tv-lh.akamaized.net/i/DeejayTv_1@129866/index_600_av-b.m3u8?sd=10
 https://sdn-global-live-streaming-packager-cache.3qsdn.com:443/13456/26412680270_2203_123528video_720.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/EskaTV_logo_2011.png" group-title="MÚSICAS", ESKA TV
-https://ipla-e2-20.pluscdn.pl/dituel/cpworld/kd/kdsbvtfe3e27zctaai6picanf1iwu5q2.mp4
+https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXCZnt9C-kXPQsd6rQuE2U83migpZFqMRaEFgoqfYpT1VtP-7CAjyAoXX_RYLU_VaGXXE&usqp=CAU" group-title="MÚSICAS", FM ITALIA
 https://stream7.xdevel.com:443/video0s975817-1187/stream/chunks.m3u8?nimblesessionid=38715100
@@ -60,17 +62,115 @@ http://103.24.96.74:80/ktn/ktn/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/DStv_Logo_2012.png" group-title="MÚSICAS", DSTV
 http://46.249.95.140:8081/hls/data.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="view-source:https://retroplustv.com/wp-content/uploads/2020/07/cropped-LOGO-RETRO-PLUS-TV-TELE-180x180.png" group-title="MÚSICAS", RETRO PLUS
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/084299119e2cf7e1b863489165dd5af3.webp" group-title="MÚSICAS" , TV TEEN NET
+https://srv3.zcast.com.br:443/yeeaah/yeeaah/chunklist_w1187691391.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.radiocatedraldorock.com/admin/assets/img/logo.png" group-title="MÚSICAS" , CATEDRAL DO ROCK
+https://stmv1.srvstm.com/catedraldorock/catedraldorock/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_300,h_192/https://toplatino.net/wp-content/uploads/2019/04/cropped-LogoTL-300-new-9.png" group-title="MÚSICAS" , TOP LATINO TV
+https://stream.castr.com:443/5d714f6a0bd97874e36f14e4/live_3a0f544056e711ec8d4bc33d28c33b2a/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a9/Radio_m2o_-_Logo_2019.svg.png/revision/latest/scale-to-width-down/300?cb=20190815183222" group-title="MÚSICAS" , M2O
+https://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0d/CMC.svg/revision/latest/scale-to-width-down/1000?cb=20170407163925" group-title="MÚSICAS" , COUNTRY MUSICAL CHANNEL
+https://cmctv.ios.internapcdn.net:443/cmctv_vitalstream_com/live_1/CMCU-92/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.1muz.com/images/LOGORUS.png" group-title="MÚSICAS" , 1MUZ HD
+http://hz1.teleport.cc/HLS/HD.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.1muz.com/images/LOGORUS.png" group-title="MÚSICAS" , 1MUZ SD
+http://hz1.teleport.cc/HLS/SD.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.pngitem.com/pimgs/m/225-2254264_radio-capital-tv-hd-png-download.png" group-title="MÚSICAS" , RADIO CAPITAL TIVÚ
+https://capital-tv-lh.akamaized.net/i/CapitalTv_1@183098/index_5_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/1/4fun-tv-logo-5EA29A36E0-seeklogo.com.png" group-title="MÚSICAS" , 4FUN TV
+https://stream.4fun.tv:8888/hls/4f.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/2d9c08daf09edb93271ec63d01641d35.webp" group-title="MÚSICAS" , RADIO BEST MUSIC 1
+https://tv.portalexpress.es:3468/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/e/e2/98_FM_Santos.jpg/245px-98_FM_Santos.jpg" group-title="MÚSICAS" , HOT 98 FM SP
+https://tv.portalexpress.es:3468/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.studio.tv.br/wp-content/uploads/2022/02/cropped-logo-pequeno.fw_.png" group-title="MÚSICAS" , STÚDIO TV rs
+https://streamingtv.ddoti.com.br/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/f918a8791af7e9f7e6faac88873f0a19.webp" group-title="MÚSICAS" , ITALIANISSIMO
+https://vcp.myplaytv.com:443/italianissimo/italianissimo/chunklist_w1799058507.m3u8
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="view-source:https://www.pngfind.com/pngs/m/165-1655043_retro-tv-png-transparent-png.png" group-title="MÚSICAS", RETRO
 https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/chunklist_w1411269715_b550000.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://images.app.goo.gl/gCJGGA3ZzWvH6BWG8" group-title="MÚSICAS", RETROPLUS
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.app.goo.gl/gCJGGA3ZzWvH6BWG8" group-title="MÚSICAS", RETROPLUS 3
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/chunklist_w1214185261.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/93/Rock_TV.svg/revision/latest/scale-to-width-down/300?cb=20210507171453" group-title="MÚSICAS" , ROCK TV Romenia
+https://fms-https1.mediadirect.ro/live3/_definst_/rocktv.smil/chunklist_w2112147194_b300000.m3u8?publisher=83
+
+#EXTINF:-1 tvg-logo="http://hitmusic.hu/assets/images/hitlogo@2x.png" group-title="CLIPES" , Hits Music Channel
+http://hitmusic.hu/hitmusic.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-lJ54ouA0oQE/X4HwEUsYB_I/AAAAAAAADaQ/B7OTviGNNE8wsCosEwcowkjPwTd6m_wwwCLcBGAsYHQ/s0/TV%2BPORTAL%2BATIVO.png" group-title="CLIPES" , Portal Ativo
+https://flussonic-tv.jupiter.com.br/portalativo/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-_e_57qMs5hU/XRD-o6ktfjI/AAAAAAAABM8/54bGOikS6SMavTF7LEefte3qHaZbG8tCACLcBGAs/s320/Screenshot_2019-06-24-13-39-35.png" group-title="CLIPES" , Music Top 
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_300,h_192/https://toplatino.net/wp-content/uploads/2019/04/cropped-LogoTL-300-new-9.png" group-title="CLIPES" , Top Latino TV 
+https://5cefcbf58ba2e.streamlock.net:443/tltvweb/tvweb.stream/chunklist_w1531371379.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/2b51a02ccbbfcd95f531d2bec137d6dc.webp" group-title="CLIPES" , Radio Italia TV 
+https://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/2b51a02ccbbfcd95f531d2bec137d6dc.webp" group-title="CLIPES" , Master TV 
+https://5b33b873179a2.streamlock.net:1443/mastertv/livestream/chunklist_w1966240397.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/32cbb1b4bc1f615b2e28ea9d9825a0a1.webp" group-title="CLIPES" , Kronehit TV 
+https://bitcdn-kronehit.bitmovin.com:443/v2/hls/chunklist_b3128000.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-A90KuTYiDcU/X7cldPpkkbI/AAAAAAAAD1c/Qt3W-51fxHcfvKPxgy2yu8bO3chyJOuvgCLcBGAsYHQ/s0/ALTERNATIVA%2BWEB%2BTV%2BIVA%25C3%258D.png" group-title="CLIPES" , Alternativa Web TV Ivaí 
+https://stmv3.samcast.com.br/alternativatvivainova/alternativatvivainova/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-UH6gK0JGBwk/XidPOzBMjYI/AAAAAAAACYY/UWQ3_r6zQPwMShUaxlEz3BMiy1T1XEyxgCLcBGAsYHQ/s320/Screenshot_2020-01-21-16-17-54.png" group-title="CLIPES" , Radio Capital Tivù 
+http://capital-live-tv-01-hls.akamai.media.kataweb.it/i/CapitalTv_1@183098/index_5_av-p.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-aDNnsigqmbI/X48gMKdmnqI/AAAAAAAADdA/cngTsoiXAvQ3lbDOkAzNURiPj5DRmubpgCLcBGAsYHQ/s0/TV%2BGUETTO.png" group-title="CLIPES" , Webtv Guetto
+https://srv1.zcast.com.br:443/cristiano1178/cristiano1178/chunklist_w1067988866.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-TVVnRnNVBgY/XRF-f4zs-fI/AAAAAAAABOA/yDECPhzmI7c6jPbc-TA2INiT4YSFkLYXACPcBGAYYCw/s320/Screenshot_2019-06-24-22-48-31.png" group-title="CLIPES" , Rede RC 
+https://59f2354c05961.streamlock.net:1443/rederc/_definst_/rederc/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.tvsingularhd.adcast.com.br/admin/assets/img/logo.png" group-title="MÚSICAS" , TV SINGULAR RS
+https://srv5.zcast.com.br/pedro3742/pedro3742/chunklist_w1947850789.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/d6f9b17d8f7077249de513a4941ec819.webp" group-title="MÚSICAS" , BMT TV GOIÁS
+https://srv5.zcast.com.br:443/bmtv/bmtv/chunklist_w331002325.m3u8
+
+#EXTINF:-1 tvg-logo="https://radiolitoral945.com.br/files/2019/08/logo.png" group-title="MÚSICAS" , TV RÁDIO LITORAL RJ
+https://59f1cbe63db89.streamlock.net:1443/tvradiolitoral/_definst_/tvradiolitoral/chunklist_w2000893224.m3u8
+
+#EXTINF:-1 tvg-logo="https://o2tv.ru/wp-content/uploads/2019/06/small_140_bw.png" group-title="MÚSICAS" , O2 TV
+https://vkvsd66.mycdn.me:443/hls/983280978566.m3u8/sig/3oHnQvoPUOE/srcIp/177.234.177.194/expires/1648680076269/clientType/13/srcAg/CHROME_ANDROID/fromCache/1/mid/1952010414982/id/983280978566/983280978566_high/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/cc9236691ac566b68598714b27afe769.webp" group-title="MÚSICAS" , RADIO 51 ITALIA
+https://59d7d6f47d7fc.streamlock.net/canale51/canale51/chunklist_w714401016.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://s.jpimg.com.br/wp-content/themes/jovempan/assets/build/images/logo-jovempan-white.png?v2" group-title="NOTICIAS", TV JP NEWS
 https://d6yfbj4xxtrod.cloudfront.net:443/out/v1/7836eb391ec24452b149f3dc6df15bbd/index_10.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://images.app.goo.gl/f7LrS1Sstz6HQCPe8" group-title="VARIEDADES", TV PANTANAL
 https://5a2b083e9f360.streamlock.net/tvpantanal/tvpantanal.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://dc600.4shared.com/img/Mg18rpp8iq/s24/17fc27bb2e8/CARIRI_TV?async&rand=0.6297999774365578" group-title="VARIEDADES", CARIRI TV
+https://video01.logicahost.com.br:443/cariritv/cariritv/chunklist_w2110098102.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/c/c7/Logotipo_da_Rede_Meio_Norte.jpg/200px-Logotipo_da_Rede_Meio_Norte.jpg" group-title="VARIEDADES", TV MEIO NORTE
 https://player-api.new.livestream.com/accounts/3332377/events/10243842/broadcasts/229991958.secure.m3u8?dw=80&hdnea=st=1647703020~exp=1647704820~acl=/i/3332377_10243842_lsifj83dsv8z71sc64c_1@305583/*~hmac=7e31f8f6f60b274ac489a312e82a20e5a10a36528c76b46b0cc17580aa3655e6&token=6235f518_3e1ecd6428b848640e8400bd9d7427d6f2cf0320
@@ -101,7 +201,6 @@ https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/playlist.m3u
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/56/Tvjornalpe2015.png/revision/latest/scale-to-width-down/452?cb=20200629185600" group-title="VARIEDADES" , TV JORNAL PE(SBT)
 https://evpp.mm.uol.com.br/ne10/ne10_240.sdp/playlist.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://viajartv.tv/wp-content/uploads/2018/05/logo-viajar-new.png" group-title="Variedades" , Viajar TV
 https://10vod-adaptive.akamaized.net/exp=1647354061~acl=%2Fa19e68aa-866a-46a5-a646-0e5d67891f61%2F%2A~hmac=315b0d4aa9dd8a437ad25ecf1387a9399adddacbda2b7089cacfee6c19c2e646/a19e68aa-866a-46a5-a646-0e5d67891f61/sep/video/d4c582f1/playlist.m3u8?query_string_ranges=1
@@ -197,9 +296,6 @@ https://596639ebdd89b.streamlock.net/8032/8032/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/cdda32_7ffb7e14cbd147e7b264bb0b4b036c1b~mv2.png/v1/fill/w_79,h_78,al_c,usm_0.66_1.00_0.01,enc_auto/redecult.png" group-title="VARIEDADES" , Tv cultura SE
 https://cdn.jmvstream.com:443/w/AVJ-9698/playlist/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/8/82/Kiss_TV_%282014-.n.v.%29.png/revision/latest?cb=20210509164603" group-title="MÚSICAS" , KISS TV
-https://cast.cdnseguro.com:19360/8094/8094.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.futura.org.br/wp-content/themes/futura2020/assets/images/logo-futura.png" group-title="EDUCAÇÃO" , TV FUTURA
 https://stmv1.transmissaodigital.com/ronald6259/ronald6259/chunklist_w1479612842.m3u8
@@ -347,39 +443,6 @@ https://video01.kshost.com.br/jorge3567/jorge3567/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-FUSTK4Z1fQs/X8zzV_cWjHI/AAAAAAAAD6E/eNDHUFUuADsTAkTJTcT_ulbcI9-y6IisACLcBGAsYHQ/s0/ANIME%2BTV.png" group-title="FILMES" , Anime TV 
 https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://hitmusic.hu/assets/images/hitlogo@2x.png" group-title="CLIPES" , Hits Music Channel
-http://hitmusic.hu/hitmusic.m3u8
-
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-lJ54ouA0oQE/X4HwEUsYB_I/AAAAAAAADaQ/B7OTviGNNE8wsCosEwcowkjPwTd6m_wwwCLcBGAsYHQ/s0/TV%2BPORTAL%2BATIVO.png" group-title="CLIPES" , Portal Ativo
-https://flussonic-tv.jupiter.com.br/portalativo/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-_e_57qMs5hU/XRD-o6ktfjI/AAAAAAAABM8/54bGOikS6SMavTF7LEefte3qHaZbG8tCACLcBGAs/s320/Screenshot_2019-06-24-13-39-35.png" group-title="CLIPES" , Music Top 
-http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_300,h_192/https://toplatino.net/wp-content/uploads/2019/04/cropped-LogoTL-300-new-9.png" group-title="CLIPES" , Top Latino TV 
-https://5cefcbf58ba2e.streamlock.net:443/tltvweb/tvweb.stream/chunklist_w1531371379.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/2b51a02ccbbfcd95f531d2bec137d6dc.webp" group-title="CLIPES" , Radio Italia TV 
-https://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/2b51a02ccbbfcd95f531d2bec137d6dc.webp" group-title="CLIPES" , Master TV 
-https://5b33b873179a2.streamlock.net:1443/mastertv/livestream/chunklist_w1966240397.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/32cbb1b4bc1f615b2e28ea9d9825a0a1.webp" group-title="CLIPES" , Kronehit TV 
-https://bitcdn-kronehit.bitmovin.com:443/v2/hls/chunklist_b3128000.m3u8 
-
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-A90KuTYiDcU/X7cldPpkkbI/AAAAAAAAD1c/Qt3W-51fxHcfvKPxgy2yu8bO3chyJOuvgCLcBGAsYHQ/s0/ALTERNATIVA%2BWEB%2BTV%2BIVA%25C3%258D.png" group-title="CLIPES" , Alternativa Web TV Ivaí 
-https://stmv3.samcast.com.br/alternativatvivainova/alternativatvivainova/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-UH6gK0JGBwk/XidPOzBMjYI/AAAAAAAACYY/UWQ3_r6zQPwMShUaxlEz3BMiy1T1XEyxgCLcBGAsYHQ/s320/Screenshot_2020-01-21-16-17-54.png" group-title="CLIPES" , Radio Capital Tivù 
-http://capital-live-tv-01-hls.akamai.media.kataweb.it/i/CapitalTv_1@183098/index_5_av-p.m3u8
-
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-aDNnsigqmbI/X48gMKdmnqI/AAAAAAAADdA/cngTsoiXAvQ3lbDOkAzNURiPj5DRmubpgCLcBGAsYHQ/s0/TV%2BGUETTO.png" group-title="CLIPES" , Webtv Guetto
-https://srv1.zcast.com.br:443/cristiano1178/cristiano1178/chunklist_w1067988866.m3u8
- 
-#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-TVVnRnNVBgY/XRF-f4zs-fI/AAAAAAAABOA/yDECPhzmI7c6jPbc-TA2INiT4YSFkLYXACPcBGAYYCw/s320/Screenshot_2019-06-24-22-48-31.png" group-title="CLIPES" , Rede RC 
-https://59f2354c05961.streamlock.net:1443/rederc/_definst_/rederc/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.tvdopovo.com/wp-content/uploads/2019/02/tv1.png" group-title="Variedades" , TV Do Povo 
 https://video01.logicahost.com.br:443/tvdopovo1/tvdopovo1/chunklist_w2137259556.m3u8
@@ -798,6 +861,13 @@ http://csvl04.manasat.com:1935/ktv/ktv1/chunklist_w1216083249.m3u8
 
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-LTqIzRhhBYE/XQAGxT5AB3I/AAAAAAAABB0/Uih_3IGEJtIyTisWutKyU_qbn75_rW0rACPcBGAYYCw/s320/Screenshot_2019-06-11-16-51-42.png" group-title="VARIEDADES" , KURIAKOS KIDS TV
 http://c2.manasat.com:1935/kkids/kkids2/chunklist_w2044842404.m3u8639ebdd89b.streamlock.net/8032/8032/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://photos.live-tv-channels.org/tv-logo/ar-miami-tv-argentina-6280.jpg" group-title="ADULTO" , MIAMI TV
+https://59ec5453559f0.streamlock.net:443/JennyLive/JennyLive/chunklist_w287846249.m3u8
+
+
+
+
 
 #EXTINF:-1 tvg-logo="" group-title="VARIEDADES" , 
 
