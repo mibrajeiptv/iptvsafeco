@@ -1,6 +1,9 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo=" " group-title="VARIEDADES" , 
 
+#EXTINF:-1 tvg-logo=" https://baixefacil.com.br/fotos/65-65-ec3893c686bc9d0071cd03aeb9e07b6c.png " group-title="ANIMES" , Anime TV
+https://stmv1.paineldevideo.com.br:443/claudiorlp3/claudiorlp3/chunklist_w486904902.m3u8
+
 #EXTINF:-1 tvg-logo="https://dc772.4shared.com/img/JIyTHvLGea/s24/17f946b0cf0/screen-6?async&rand=0.870155787324238" group-title="MÚSICAS" , Top tv
 https://cast.cdnseguro.com:19360/8092/8092.m3u8
 
