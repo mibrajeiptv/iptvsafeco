@@ -1,20 +1,15 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo=" " group-title="VARIEDADES" , 
 
-#EXTINF:-1 tvg-logo="https://dc772.4shared.com/img/JIyTHvLGea/s24/17f946b0cf0/screen-6?async&rand=0.870155787324238" group-title="MÚSICAS" , Top tv
-https://cast.cdnseguro.com:19360/8092/8092.m3u8
 
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-L748pHHPlz4/UHDb9C87yDI/AAAAAAAAJj8/etAKEC7UQ2s/s200/RADIO_LITORAL_FM_CABO_FRIO.gif" group-title="MÚSICAS" , TV RÁDIO LITORAL RJ
-https://59f1cbe63db89.streamlock.net:1443/tvradiolitoral/_definst_/tvradiolitoral/chunklist_w2000893224.m3u8
+https://59f1cbe63db89.streamlock.net:1443/tvradiolitoral/_definst_/tvradiolitoral/chunklist_w1101394695.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.tvsingularhd.adcast.com.br/admin/assets/img/logo.png" group-title="MÚSICAS" , TV SINGULAR RS
 https://srv5.zcast.com.br/pedro3742/pedro3742/chunklist_w1947850789.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.studio.tv.br/wp-content/uploads/2022/02/cropped-logo-pequeno.fw_.png" group-title="MÚSICAS" , STÚDIO TV rs
 https://streamingtv.ddoti.com.br/hls/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/e/e2/98_FM_Santos.jpg/245px-98_FM_Santos.jpg" group-title="MÚSICAS" , HOT 98 FM SP
-https://tv.portalexpress.es:3468/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/094ee183e712ba5e8ac1a7c8a6d8ac57.png" group-title="MÚSICAS" , TV ESTADO BA 
 https://cdn.jmvstream.com:443/w/AVJ-10205/playlist/chunklist.m3u8
@@ -32,7 +27,7 @@ https://59f2354c05961.streamlock.net:1443/rederc/_definst_/rederc/playlist.m3u8
 https://srv1.zcast.com.br:443/cristiano1178/cristiano1178/chunklist_w1067988866.m3u8
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-A90KuTYiDcU/X7cldPpkkbI/AAAAAAAAD1c/Qt3W-51fxHcfvKPxgy2yu8bO3chyJOuvgCLcBGAsYHQ/s0/ALTERNATIVA%2BWEB%2BTV%2BIVA%25C3%258D.png" group-title="CLIPES" , Alternativa Web TV Ivaí 
-https://stmv3.samcast.com.br/alternativatvivainova/alternativatvivainova/playlist.m3u8
+https://stmv2.samcast.com.br:443/alternativatvivainova/alternativatvivainova/chunklist_w1014333944.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="view-source:https://www.pngfind.com/pngs/m/165-1655043_retro-tv-png-transparent-png.png" group-title="MÚSICAS", RETRO
 https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/chunklist_w1411269715_b550000.m3u8
@@ -41,7 +36,7 @@ https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/chunklist_w1411269715_b55
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-UH6gK0JGBwk/XidPOzBMjYI/AAAAAAAACYY/UWQ3_r6zQPwMShUaxlEz3BMiy1T1XEyxgCLcBGAsYHQ/s320/Screenshot_2020-01-21-16-17-54.png" group-title="CLIPES" , Radio Capital Tivù 
-http://capital-live-tv-01-hls.akamai.media.kataweb.it/i/CapitalTv_1@183098/index_5_av-p.m3u8
+https://streamcdnc1-4c4b867c89244861ac216426883d1ad0.msvdn.net:443/live/S35394734/Z6U2wGoDYANk/chunklist_b2428000.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.pngitem.com/pimgs/m/225-2254264_radio-capital-tv-hd-png-download.png" group-title="MÚSICAS" , RADIO CAPITAL TIVÚ
 https://capital-tv-lh.akamaized.net/i/CapitalTv_1@183098/index_5_av-p.m3u8?sd=10&rebase=on
@@ -59,7 +54,7 @@ http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
 https://sdn-global-live-streaming-packager-cache.3qsdn.com:443/13456/26412680270_2203_123528video_720.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/8/82/Kiss_TV_%282014-.n.v.%29.png/revision/latest?cb=20210509164603" group-title="MÚSICAS" , KISS TV
-https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
+https://tv.broadcasting.ro:443/memfs/a629c031-2170-4ee9-a36d-87a891aa3131_output_0.m3u8?session=KJyHvZergmBtHM3cmsuRME
 
 #EXTINF:-1 tvg-logo="https://www.radiocatedraldorock.com/admin/assets/img/logo.png" group-title="MÚSICAS" , CATEDRAL DO ROCK
 https://stmv1.srvstm.com/catedraldorock/catedraldorock/playlist.m3u8
@@ -254,6 +249,9 @@ https://live.cdn.upx.com:443/723b/myStream.sdp/chunklist_w505791874.m3u8?86ed9b0
 
 #EXTINF:-1 tvg-logo="https://sesctv.org.br/wp-content/uploads/2018/06/SESCTV-ICON.png" group-title="VARIEDADES" , TV ABERTA
 https://cdn-canalpaulo.ciclano.io:1443/canalpaulo/canalpaulo/chunklist_w1209443121.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvriopreto.tv/wp-content/uploads/2022/08/TV-RIO-PRETO.png" group-title="VARIEDADES" , TV Rio  Preto
+https://video02.logicahost.com.br:443/tvriopreto/tvriopreto/chunklist_w1055430303.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvnova.com.br/wp-content/uploads/2020/07/rede-nova-nordeste-colorida.png" group-title="VARIEDADES" , TV NOVA PE
 https://live.comets.com.br:443/tvnovanordeste/aovivo/chunklist.m3u8
