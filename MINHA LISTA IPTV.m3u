@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo=" " group-title="VARIEDADES" , 
 
+#EXTINF:-1 tvg-logo="  http://tvtolive.com/wp-content/uploads/Relax-TV-tvtolive.com_.jpg" group-title="MÚSICAS" , Relax TV
+http://live.planeta-online.tv:1935/public/smil:channel_3.smil/playlist.m3u8?wtendtime=1671740299&wthash=i1yfOh9NqORqSo5-MJRCxrUvFbR6Hbym7tcOIucfer4=
 
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-L748pHHPlz4/UHDb9C87yDI/AAAAAAAAJj8/etAKEC7UQ2s/s200/RADIO_LITORAL_FM_CABO_FRIO.gif" group-title="MÚSICAS" , TV RÁDIO LITORAL RJ
 https://59f1cbe63db89.streamlock.net:1443/tvradiolitoral/_definst_/tvradiolitoral/chunklist_w1101394695.m3u8
@@ -8,11 +10,11 @@ https://59f1cbe63db89.streamlock.net:1443/tvradiolitoral/_definst_/tvradiolitora
 #EXTINF:-1 tvg-logo="https://www.tvsingularhd.adcast.com.br/admin/assets/img/logo.png" group-title="MÚSICAS" , TV SINGULAR RS
 https://srv5.zcast.com.br/pedro3742/pedro3742/chunklist_w1947850789.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.studio.tv.br/wp-content/uploads/2022/02/cropped-logo-pequeno.fw_.png" group-title="MÚSICAS" , STÚDIO TV rs
+#EXTINF:-1 tvg-logo="https://www.studio.tv.br/wp-content/uploads/2022/02/cropped-logo-pequeno.fw_.png" group-title="MÚSICAS" , OFF STÚDIO TV rs
 https://streamingtv.ddoti.com.br/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/094ee183e712ba5e8ac1a7c8a6d8ac57.png" group-title="MÚSICAS" , TV ESTADO BA 
-https://cdn.jmvstream.com:443/w/AVJ-10205/playlist/chunklist.m3u8
+https://cdn.jmvstream.com/w/AVJ-10205/playlist/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/d6f9b17d8f7077249de513a4941ec819.webp" group-title="MÚSICAS" , BMT TV GOIÁS
 https://srv5.zcast.com.br:443/bmtv/bmtv/chunklist_w331002325.m3u8
@@ -29,10 +31,10 @@ https://srv1.zcast.com.br:443/cristiano1178/cristiano1178/chunklist_w1067988866.
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-A90KuTYiDcU/X7cldPpkkbI/AAAAAAAAD1c/Qt3W-51fxHcfvKPxgy2yu8bO3chyJOuvgCLcBGAsYHQ/s0/ALTERNATIVA%2BWEB%2BTV%2BIVA%25C3%258D.png" group-title="CLIPES" , Alternativa Web TV Ivaí 
 https://stmv2.samcast.com.br:443/alternativatvivainova/alternativatvivainova/chunklist_w1014333944.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="view-source:https://www.pngfind.com/pngs/m/165-1655043_retro-tv-png-transparent-png.png" group-title="MÚSICAS", RETRO
+#EXTINF:-1 tvg-id="" tvg-logo="view-source:http://tvtolive.com/wp-content/uploads/Retro-Music-tvtolive.com_.jpg" group-title="MÚSICAS", RETRO
 https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/chunklist_w1411269715_b550000.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://images.app.goo.gl/gCJGGA3ZzWvH6BWG8" group-title="MÚSICAS", RETROPLUS
+#EXTINF:-1 tvg-id="" tvg-logo="https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=2837453446295536" group-title="MÚSICAS", RETROPLUS
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-UH6gK0JGBwk/XidPOzBMjYI/AAAAAAAACYY/UWQ3_r6zQPwMShUaxlEz3BMiy1T1XEyxgCLcBGAsYHQ/s320/Screenshot_2020-01-21-16-17-54.png" group-title="CLIPES" , Radio Capital Tivù 
@@ -60,13 +62,13 @@ https://tv.broadcasting.ro:443/memfs/a629c031-2170-4ee9-a36d-87a891aa3131_output
 https://stmv1.srvstm.com/catedraldorock/catedraldorock/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/93/Rock_TV.svg/revision/latest/scale-to-width-down/300?cb=20210507171453" group-title="MÚSICAS" , ROCK TV Romenia
-https://fms-https1.mediadirect.ro/live3/_definst_/rocktv.smil/chunklist_w2112147194_b300000.m3u8?publisher=83
+https://tv.broadcasting.ro/memfs/85c83a80-4f71-4f2d-a8d6-43f676896bcb.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fc/KTN_old_logo.png/revision/latest/scale-to-width-down/316?cb=20211012125629" group-title="MÚSICAS", KTN TV
-http://103.24.96.74:80/ktn/ktn/tracks-v1a1/mono.m3u8
+http://103.24.96.74/ktn/ktn/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d6/Deejay-tv-logo.jpg/revision/latest?cb=20171013201157" group-title="MÚSICAS", DEEJAY TV
-https://deejay-tv-lh.akamaized.net/i/DeejayTv_1@129866/index_600_av-b.m3u8?sd=10&rebase=on
+https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/1/4fun-tv-logo-5EA29A36E0-seeklogo.com.png" group-title="MÚSICAS" , 4FUN TV
 https://stream.4fun.tv:8888/hls/4f.m3u8
