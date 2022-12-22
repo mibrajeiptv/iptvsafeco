@@ -86,13 +86,13 @@ http://hz1.teleport.cc/HLS/SD.m3u8
 https://bitcdn-kronehit.bitmovin.com:443/v2/hls/chunklist_b3128000.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://wikiimg.tojsiabtv.com/wikipedia/en/b/bb/HipTV_logo.png" group-title="MÚSICAS", HIP TV
-https://59f9accb04c6e.streamlock.net:443/live/myStream/chunklist_w522382363.m3u8
+https://59f9accb04c6e.streamlock.net/live/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.app.goo.gl/WBz7yFx8VfjHJ1fk6" group-title="MÚSICAS" , Music Top 
 http://live-edge01.telecentro.net.ar:80/live/smil:musictop.smil/chunklist_w2121980549_b2028000_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a9/Radio_m2o_-_Logo_2019.svg.png/revision/latest/scale-to-width-down/300?cb=20190815183222" group-title="MÚSICAS" , M2O
-https://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8?sd=10&rebase=on
+https://streamcdnb2-4c4b867c89244861ac216426883d1ad0.msvdn.net:443/live/S62628868/uhdWBlkC1AoO/chunklist_b2816000.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.madeinbo.tv/wp-content/uploads/2020/10/logo-red114.png" group-title="MÚSICAS" , MADE IN BO
 https://srvx1.selftv.video:443/dmchannel/live/chunklist_w1473576287.m3u8
@@ -107,7 +107,7 @@ https://stmv1.srvsh.com.br:443/gilberto5815/gilberto5815/chunklist_w792751536.m3
 https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXCZnt9C-kXPQsd6rQuE2U83migpZFqMRaEFgoqfYpT1VtP-7CAjyAoXX_RYLU_VaGXXE&usqp=CAU" group-title="MÚSICAS", FM ITALIA
-https://stream7.xdevel.com:443/video0s975817-1187/stream/chunks.m3u8?nimblesessionid=38715100
+https://stream1.xdevel.com:443/video0s975817-1182/stream/chunks.m3u8?nimblesessionid=116450037
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i1.sndcdn.com/avatars-000342762795-4anno9-t500x500.jpg" group-title="MÚSICAS", GREEK MUSIC TV
 http://wpso.com:1939/hls/music.m3u8
@@ -115,26 +115,26 @@ http://wpso.com:1939/hls/music.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/RTL_102.5_%28logo%29.png" group-title="MÚSICAS", HITCHANNEL 102.5
 https://streamcdnb12-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net:443/live/S97044836/tbbP8T1ZRPBL/chunklist_b2816000.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/mpNqmqSsHu.jpg" group-title="MÚSICAS", RADIO NAPOLI EMME TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/mpNqmqSsHu.jpg" group-title="MÚSICAS", OFF RADIO NAPOLI EMME TV
 https://eco.streams.ovh:443/radionapoliemme/radionapoliemme/chunklist_w1434772781.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="#EXTINF:-1 tvg-id="" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/mpNqmqSsHu.jpg" group-title="MÚSICAS", " group-title="MÚSICAS", ROUGE TV
 https://edge21.vedge.infomaniak.com:443/livecast/rougetv.stream/chunklist_w2090896926.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3f/Joo_Music.png/revision/latest?cb=20200108100316" group-title="MÚSICAS", JOO MUSIC
-https://livecdn.live247stream.com:443/joomusic/tv/joomusic/stream1/chunks.m3u8?nimblesessionid=189997790
+https://livecdn.live247stream.com:443/joomusic/tv/chunks.m3u8?nimblesessionid=349180094
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/DStv_Logo_2012.png" group-title="MÚSICAS", DSTV
 http://46.249.95.140:8081/hls/data.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/084299119e2cf7e1b863489165dd5af3.webp" group-title="MÚSICAS" , TV TEEN NET
-https://srv3.zcast.com.br:443/yeeaah/yeeaah/chunklist_w1187691391.m3u8
+https://stmv1.painelvideo.top/tvteennet/tvteennet/chunklist_w1425969400.m3u8
 
 #EXTINF:-1 tvg-logo="http://hitmusic.hu/assets/images/hitlogo@2x.png" group-title="CLIPES" , Hits Music Channel
 http://hitmusic.hu/hitmusic.m3u8
 
 #EXTINF:-1 tvg-logo="https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_300,h_192/https://toplatino.net/wp-content/uploads/2019/04/cropped-LogoTL-300-new-9.png" group-title="MÚSICAS" , TOP LATINO TV
-https://stream.castr.com:443/5d714f6a0bd97874e36f14e4/live_3a0f544056e711ec8d4bc33d28c33b2a/tracks-v1a1/mono.m3u8
+https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latintv.stream/chunklist_w924352888.m3u8
 
 #EXTINF:-1 tvg-logo="https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_300,h_192/https://toplatino.net/wp-content/uploads/2019/04/cropped-LogoTL-300-new-9.png" group-title="CLIPES" , Top Latino TV 
 https://5cefcbf58ba2e.streamlock.net:443/tltvweb/tvweb.stream/chunklist_w1531371379.m3u8
@@ -142,20 +142,20 @@ https://5cefcbf58ba2e.streamlock.net:443/tltvweb/tvweb.stream/chunklist_w1531371
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0d/CMC.svg/revision/latest/scale-to-width-down/1000?cb=20170407163925" group-title="MÚSICAS" , COUNTRY MUSICAL CHANNEL
 https://cmctv.ios.internapcdn.net:443/cmctv_vitalstream_com/live_1/CMCU-92/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/2d9c08daf09edb93271ec63d01641d35.webp" group-title="MÚSICAS" , RADIO BEST MUSIC 1
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/2d9c08daf09edb93271ec63d01641d35.webp" group-title="MÚSICAS" , OFF RADIO BEST MUSIC 1
 https://tv.portalexpress.es:3468/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/f918a8791af7e9f7e6faac88873f0a19.webp" group-title="MÚSICAS" , ITALIANISSIMO
 https://vcp.myplaytv.com:443/italianissimo/italianissimo/chunklist_w1799058507.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://images.app.goo.gl/gCJGGA3ZzWvH6BWG8" group-title="MÚSICAS", RETROPLUS 3
-https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/chunklist_w1214185261.m3u8
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/chunklist_w1899070924.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/2b51a02ccbbfcd95f531d2bec137d6dc.webp" group-title="CLIPES" , Radio Italia TV 
-https://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/master.m3u8
+https://radioitaliasmi.akamaized.net/hls/live/2093120/RISMI/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/cc9236691ac566b68598714b27afe769.webp" group-title="MÚSICAS" , RADIO 51 ITALIA
-https://59d7d6f47d7fc.streamlock.net/canale51/canale51/chunklist_w714401016.m3u8
+https://59d8c0cee6f3d.streamlock.net/canale51/canale51/chunklist_w1368784233.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://media.gazetadopovo.com.br/2021/11/09172455/ALTERA%C3%87%C3%83O03_Logo_2.jpg" group-title="NOTÍCIAS", TV JP NEWS
 https://d6yfbj4xxtrod.cloudfront.net:443/out/v1/7836eb391ec24452b149f3dc6df15bbd/index_10.m3u8
