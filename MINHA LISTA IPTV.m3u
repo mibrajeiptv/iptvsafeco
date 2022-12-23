@@ -241,13 +241,10 @@ https://596639ebdd89b.streamlock.net/8032/8032/playlist.m3u8
 https://video02.logicahost.com.br:443/tvriopreto/tvriopreto/chunklist_w450036758.m3u8
 
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/12/RBTV-logo-rede-brasil.png" group-title="VARIEDADES" , REDE BRASIL 
-https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/chunklist_w473114783.m3u8
+https://5cf4a2c2512a2.streamlock.net:443/rbtv/rbtv/chunklist_w1657110468.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/7faf25d0fff391c39eb21e2374503e89.png" group-title="VARIEDADES" , TV NORA ERA 
 http://wz4.dnip.com.br/novaeratv/novaeratv.sdp/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Logo_of_BRZ.svg/1920px-Logo_of_BRZ.svg.png" group-title="VARIEDADES" , BRZF TV
-https://oj7lng29dg82-hls-live.5centscdn.com:443/lives/f7b44cfafd5c52223d5498196c8a2e7b.sdp/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/b65580_bce8e5a81581452f95b81af9a35679c0~mv2.png/v1/fill/w_476,h_130,al_c,usm_0.66_1.00_0.01,enc_auto/Logo_CentralTV_impress%C3%A3o_-_horizontal_pn.png" group-title="VARIEDADES" , CENTRAL TV 
 https://serv1.redecentraltv.videovox.pw:443/serv1-redecentraltv/serv1-redecentraltv/chunklist_w1451202060.m3u8
@@ -273,8 +270,8 @@ https://59f2354c05961.streamlock.net:1443/tvdigitalbirigui/_definst_/tvdigitalbi
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/9/92/Logotipo_da_TV_Metr%C3%B3pole.png/200px-Logotipo_da_TV_Metr%C3%B3pole.png" group-title="VARIEDADES" , TV METRÓPOLE CE 
 https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/chunklist_w507608064.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.tvmaisnews.com.br/imagens/logo.png" group-title="VARIEDADES" , OFF TV MAISNEWS
-https://eventials-i.akamaihd.net/hls/live/746370/uymfm3v51659vk7t/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.tvmaisnews.com.br/imagens/logo.png" group-title="VARIEDADES" , TV MAISNEWS
+http://sevensp.homelinux.com:80/live/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="http://barrados.net/img/display/800-600-2-2017_01/148406467430327800.jpg" group-title="VARIEDADES" , OFF LONDRINA TV
 https://video01.kshost.com.br/clodoaldo6562/clodoaldo6562/playlist.m3u8
@@ -283,8 +280,8 @@ https://video01.kshost.com.br/clodoaldo6562/clodoaldo6562/playlist.m3u8
 
  #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-FWv58xh2EDo/TYdQLxceQcI/AAAAAAAAAX0/lzGHTe4wuIs/s1600/878.png" group-title="VARIEDADES" , OFF TV JORNAL LIMEIRA
 
-#EXTINF:-1 tvg-logo="http://barrados.net/img/display/800-600-2-2017_01/148406467430327800.jpg" group-title="VARIEDADES" , TV NATAL *OFF
-http://tvnatal.ddns.net:1935/vmix/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.tvnatal.com.br/assets/images/logo/logo%20HD%20c%C3%B3pia.png" group-title="VARIEDADES" , TV NATAL
+https://stmv1.srvstm.com:443/antonioflavio9545/antonioflavio9545/chunklist_w2122163873.m3u8
 
 #EXTINF:-1 tvg-logo="https://live--tv--channels-org.cdn.ampproject.org/ii/w680/s/live-tv-channels.org/pt-data/uploads/logo/br-tv-canal-x.jpg" group-title="VARIEDADES" , CANAL 24 HORAS 
 https://59f1cbe63db89.streamlock.net:1443/canal24horastv/_definst_/canal24horastv/chunklist_w42016569.m3u8
