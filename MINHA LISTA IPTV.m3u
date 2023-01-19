@@ -1,6 +1,25 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo=" " group-title="VARIEDADES" , 
 
+
+ #EXTINF:-1 tvg-logo="https://www.kindpng.com/picc/m/289-2899526_tv-globo-logo-vector-rede-globo-hd-png.png" group-title="VARIEDADES" , TV Globo
+https://newedge.eu-central-1.edge.mycdn.live:443/live_transcoded/sempre1/c3516c8831fbc8c42492129904246087/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="  https://www.cxtv.com.br/cdn-cgi/mirage/f18024b3476709ec873d957c81c627a363ac880a4129f940387e9762673e7cd9/1280/https://www.cxtv.com.br/img/Tvs/Logo/webp-l/c680591502799a354409ce23b41932f8.webp" group-title="VARIEDADES" , Xtreme TV
+https://stmv1.voxtvhd.com.br:443/xtremetv/xtremetv/chunklist_w1358535935.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/cdn-cgi/mirage/f18024b3476709ec873d957c81c627a363ac880a4129f940387e9762673e7cd9/1280/https://www.cxtv.com.br/img/Tvs/Logo/webp-l/0d8ea456a45f1f4837ffb24db7646f8f.webp" group-title="FILMES" , TVCINE
+https://stmv1.srvif.com:443/channel1/channel1/chunklist_w1754884401.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/cdn-cgi/mirage/f18024b3476709ec873d957c81c627a363ac880a4129f940387e9762673e7cd9/1280/https://www.cxtv.com.br/img/Tvs/Logo/webp-l/330749dcc61ffa6816423d9d3452808e.webp" group-title="FILMES" , NOVAPLAY
+https://srv4.zcast.com.br:443/tvnovaplay/tvnovaplay/chunklist_w1742379990.m3u8
+
+
+#EXTINF:-1 tvg-logo="  https://scontent.flaz1-1.fna.fbcdn.net/v/t39.30808-6/309309154_510225381112923_6886416542203442809_n.jpg?stp=cp0_dst-jpg_e15_fr_q65&_nc_cat=111&ccb=1-7&_nc_sid=85a577&efg=eyJpIjoidCJ9&_nc_eui2=AeH03ogCUptEs4N3dBttM_XIHv8EjWCxXlYe_wSNYLFeVswlo6hhasUexc6cGeb5AyzgE2ZufNZ0tv0qZCFmWtUM&_nc_ohc=iz_5ktITifEAX-oM4L9&_nc_ht=scontent.flaz1-1.fna&oh=00_AfAGthVY2seANEZAU6a5TuVts_71tUrWQMGQN3FMGQkKtA&oe=63CCF390" group-title="VARIEDADES" , TV Clone
+https://stmv1.paineltv.net:443/redeclonetv/redeclonetv/chunklist_w94568203.m3u8
+
 #EXTINF:-1 tvg-logo="  http://tvtolive.com/wp-content/uploads/Relax-TV-tvtolive.com_.jpg" group-title="MÚSICAS" , Relax TV
 https://spottvod.akamaized.net/ott/rlaxx/media_team_producciones/CS_PGM_79_T3_premium.mp4/index-v1-a1.m3u8?cid=29842&mid=&ecid=2074761&pid=5&dtid=3&ident=436247060678&content=1290503&path=media_team_producciones%2FCS_PGM_79_T3
 
