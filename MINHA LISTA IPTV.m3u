@@ -8,7 +8,7 @@ https://newedge.eu-central-1.edge.mycdn.live:443/live_transcoded/sempre1/c3516c8
 
 
 #EXTINF:-1 tvg-logo="  https://www.cxtv.com.br/cdn-cgi/mirage/f18024b3476709ec873d957c81c627a363ac880a4129f940387e9762673e7cd9/1280/https://www.cxtv.com.br/img/Tvs/Logo/webp-l/c680591502799a354409ce23b41932f8.webp" group-title="VARIEDADES" , Xtreme TV
-https://stmv1.voxtvhd.com.br:443/xtremetv/xtremetv/chunklist_w1358535935.m3u8
+https://stmv1.srvif.com/xtremetv/xtremetv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/cdn-cgi/mirage/f18024b3476709ec873d957c81c627a363ac880a4129f940387e9762673e7cd9/1280/https://www.cxtv.com.br/img/Tvs/Logo/webp-l/0d8ea456a45f1f4837ffb24db7646f8f.webp" group-title="FILMES" , TVCINE
 https://stmv1.srvif.com:443/channel1/channel1/chunklist_w1754884401.m3u8
